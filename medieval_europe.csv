@@ -1,0 +1,901 @@
+event_id,region,year,event_type,population_estimate,grain_price_silver
+1,England,1368,Treaty,1565233,12.46
+2,England,1279,Royal marriage,4604553,2.19
+3,Denmark,907,Treaty,4536866,2.66
+4,Aragon,1092,Coronation,4816820,13.78
+5,Castile,1168,Royal marriage,411475,5.39
+6,England,1141,Treaty,3422543,3.33
+7,England,1227,Coronation,92120,13.69
+8,Norway,1499,Coronation,3465689,14.55
+9,Norway,1450,Coronation,209057,9.6
+10,Bohemia,902,Royal marriage,2940026,5.89
+11,Holy Roman Empire,1485,Coronation,1226358,10.36
+12,Aragon,1090,Battle,3005311,0.33
+13,Aragon,1206,Battle,2683652,2.26
+14,Bohemia,1424,Treaty,2006391,5.59
+15,Norway,1387,Treaty,3888403,12.5
+16,Scotland,1313,Coronation,4789589,4.63
+17,Norway,1086,Treaty,170428,0.96
+18,Holy Roman Empire,1226,Royal marriage,1327370,5.74
+19,Denmark,966,Coronation,833849,3.69
+20,Denmark,1205,Plague outbreak,4719310,0.94
+21,England,1361,Treaty,809019,6.04
+22,France,1148,Coronation,3998347,5.34
+23,Scotland,918,Treaty,3026783,11.03
+24,Castile,1341,Coronation,2271854,1.04
+25,Castile,1246,Harvest,4076688,5.75
+26,Aragon,1015,Treaty,4524294,5.2
+27,France,1314,Plague outbreak,845757,9.74
+28,Holy Roman Empire,1305,Coronation,2974011,13.33
+29,Aragon,1191,Battle,776535,2.23
+30,Norway,1082,Coronation,3918689,12.26
+31,France,1475,Harvest,3685430,9.18
+32,Castile,1074,Harvest,1038131,0.54
+33,England,1068,Harvest,547905,11.53
+34,Sweden,1470,Battle,1681695,8.11
+35,Norway,1224,Royal marriage,2899782,12.02
+36,Holy Roman Empire,1313,Coronation,2429242,6.19
+37,France,951,Royal marriage,1243241,10.02
+38,Denmark,954,Battle,4929981,3.06
+39,Norway,956,Harvest,111293,2.96
+40,Holy Roman Empire,1464,Plague outbreak,2376398,5.17
+41,Norway,1001,Battle,1373066,7.84
+42,France,1387,Harvest,791675,10.78
+43,Sweden,966,Harvest,2638194,10.04
+44,Bohemia,1445,Treaty,4149116,12.34
+45,Aragon,1370,Battle,2592328,6.45
+46,Bohemia,906,Royal marriage,586385,13.7
+47,Aragon,932,Coronation,2319110,1.73
+48,Holy Roman Empire,1307,Harvest,3851763,2.89
+49,Aragon,1065,Royal marriage,972487,10.29
+50,Sweden,1221,Royal marriage,763756,3.88
+51,Castile,1415,Treaty,786731,2.55
+52,Aragon,1089,Treaty,2288653,13.31
+53,Sweden,1095,Battle,2704015,1.12
+54,England,1119,Coronation,4520889,14.87
+55,Aragon,949,Battle,971778,12.95
+56,Aragon,1413,Harvest,3959058,13.04
+57,Norway,1002,Plague outbreak,1150878,9.47
+58,Sweden,997,Harvest,316666,3.45
+59,Norway,1263,Royal marriage,2460431,11.99
+60,Scotland,995,Battle,1007475,0.9
+61,Denmark,1460,Battle,2779019,8.77
+62,Holy Roman Empire,1088,Coronation,1527859,6.64
+63,Norway,1265,Battle,1699818,11.28
+64,Norway,1105,Coronation,2460636,0.45
+65,Norway,980,Coronation,1025450,5.86
+66,England,988,Battle,2225790,7.21
+67,England,1201,Plague outbreak,2388853,2.37
+68,France,1290,Harvest,846623,6.28
+69,England,1174,Battle,2401971,13.67
+70,Scotland,1212,Plague outbreak,755301,7.08
+71,Norway,1420,Treaty,3716006,3.85
+72,Castile,1046,Plague outbreak,4605386,8.03
+73,England,1389,Battle,2164619,1.01
+74,Aragon,1451,Battle,338422,4.48
+75,Holy Roman Empire,1421,Plague outbreak,3307283,11.78
+76,France,1396,Battle,4648297,9.66
+77,Bohemia,1253,Battle,415327,0.46
+78,Norway,1155,Plague outbreak,2822141,8.59
+79,Bohemia,1333,Harvest,1211044,3.34
+80,Aragon,1253,Royal marriage,3575497,14.64
+81,France,1462,Harvest,981964,11.78
+82,Denmark,1299,Plague outbreak,3995132,2.01
+83,France,1138,Battle,1538087,5.84
+84,Holy Roman Empire,1067,Harvest,2477671,7.4
+85,Castile,1226,Plague outbreak,4554451,2.82
+86,England,1301,Plague outbreak,2596249,10.59
+87,Aragon,1011,Coronation,1282222,12.64
+88,Scotland,1349,Coronation,4001951,0.17
+89,Castile,1176,Coronation,915127,2.09
+90,Norway,972,Treaty,4538410,4.32
+91,Sweden,1272,Battle,1041741,14.76
+92,Norway,1028,Treaty,173247,6.13
+93,Bohemia,1453,Royal marriage,4519698,2.64
+94,Norway,932,Plague outbreak,3017689,1.9
+95,Holy Roman Empire,1370,Plague outbreak,4473052,13.53
+96,Scotland,1280,Coronation,2125157,12.17
+97,Castile,1422,Battle,1260882,9.33
+98,Sweden,921,Treaty,977356,8.14
+99,Denmark,1469,Treaty,2984728,11.68
+100,Castile,1457,Battle,4475748,4.84
+101,Scotland,1223,Treaty,4944368,9.63
+102,Scotland,1097,Coronation,2008243,11.08
+103,Aragon,1183,Battle,4018885,8.68
+104,Castile,1118,Treaty,3954174,2.61
+105,Holy Roman Empire,1296,Battle,880972,14.79
+106,France,1220,Coronation,4000201,12.19
+107,Bohemia,903,Royal marriage,2182781,7.41
+108,Denmark,1327,Coronation,1385965,9.34
+109,England,1452,Battle,287066,11.43
+110,England,920,Battle,1608514,6.93
+111,Denmark,1436,Treaty,3529599,11.11
+112,Castile,1188,Treaty,337415,11.62
+113,Bohemia,1229,Coronation,4712496,6.94
+114,Norway,1226,Coronation,2256436,2.9
+115,Castile,967,Battle,2339033,9.01
+116,Castile,1312,Battle,3511171,8.36
+117,Sweden,1415,Treaty,2743281,7.56
+118,Bohemia,1363,Plague outbreak,560377,0.97
+119,Aragon,1124,Coronation,719125,11.69
+120,Norway,1322,Harvest,296891,8.13
+121,Denmark,901,Royal marriage,3334869,6.52
+122,Denmark,1045,Battle,1216556,12.24
+123,Sweden,1090,Treaty,1959065,3.03
+124,Holy Roman Empire,1331,Coronation,2280687,4.15
+125,Scotland,1164,Harvest,2933577,9.63
+126,Aragon,1229,Coronation,1266897,5.91
+127,England,1336,Battle,2798498,4.62
+128,Scotland,1453,Treaty,3291662,3.89
+129,Bohemia,924,Treaty,165803,7.34
+130,Denmark,1475,Plague outbreak,1302010,11.66
+131,Denmark,971,Battle,1254423,12.1
+132,Norway,969,Coronation,3980539,11.88
+133,Scotland,1349,Coronation,3328902,13.3
+134,Holy Roman Empire,1101,Harvest,4262520,0.86
+135,Castile,1246,Royal marriage,1555183,14.74
+136,Sweden,1068,Plague outbreak,1487369,6.45
+137,Bohemia,1268,Royal marriage,1593350,2.98
+138,Castile,1258,Battle,545776,14.55
+139,Scotland,1305,Harvest,4938353,12.4
+140,France,1232,Harvest,674282,13.95
+141,France,970,Harvest,4459950,7.89
+142,England,1316,Treaty,2627432,11.24
+143,Aragon,1326,Harvest,3836023,7.84
+144,Bohemia,1242,Treaty,4963644,8.14
+145,Castile,920,Coronation,653509,14.28
+146,Castile,1009,Harvest,1988065,11.1
+147,Aragon,1087,Royal marriage,1818545,8.54
+148,Castile,1031,Royal marriage,500296,5.95
+149,Bohemia,1475,Harvest,2556309,2.55
+150,Scotland,962,Harvest,3195070,1.82
+151,Norway,1292,Treaty,4566764,4.57
+152,France,1184,Treaty,1814436,10.42
+153,Bohemia,1143,Treaty,3537204,2.95
+154,Castile,913,Battle,3356325,2.06
+155,England,1371,Treaty,2742392,1.26
+156,Denmark,1282,Treaty,3106468,12.71
+157,Aragon,1411,Battle,2145870,3.69
+158,Sweden,1296,Harvest,1340033,3.09
+159,Denmark,1009,Plague outbreak,2798309,5.92
+160,Scotland,1489,Battle,4033735,9.48
+161,Denmark,1179,Treaty,4437414,8.84
+162,England,1131,Battle,4082665,13.86
+163,Sweden,1087,Royal marriage,3685562,10.26
+164,Sweden,1149,Royal marriage,449841,8.47
+165,France,1018,Harvest,3995123,10.7
+166,England,1101,Treaty,1204869,9.99
+167,Holy Roman Empire,1131,Royal marriage,1704572,11.54
+168,Denmark,911,Battle,4176953,8.63
+169,Denmark,909,Treaty,3387485,12.13
+170,Sweden,1477,Harvest,3365299,13.51
+171,Aragon,1118,Treaty,2118684,10.48
+172,Castile,1295,Treaty,3661646,5.43
+173,Castile,1214,Battle,3380638,4.27
+174,Scotland,975,Coronation,4759282,9.59
+175,France,1029,Treaty,2471033,9.51
+176,England,1021,Battle,104832,0.46
+177,France,1186,Battle,3252337,11.23
+178,Holy Roman Empire,1317,Treaty,3933643,3.41
+179,Scotland,1136,Coronation,572902,0.91
+180,Aragon,987,Harvest,3502021,2.38
+181,Bohemia,1220,Coronation,4227282,9.89
+182,Holy Roman Empire,1368,Harvest,3773162,7.89
+183,Bohemia,1065,Plague outbreak,3464018,12.72
+184,Denmark,1473,Royal marriage,1642591,1.68
+185,Aragon,1198,Treaty,3121482,12.46
+186,France,1204,Treaty,4260097,9.8
+187,England,1005,Battle,2345531,3.3
+188,Sweden,920,Harvest,800233,11.08
+189,Norway,1291,Coronation,1457576,11.15
+190,Holy Roman Empire,1020,Coronation,2495948,1.71
+191,Norway,1329,Treaty,2507027,4.07
+192,Scotland,1442,Harvest,4932179,9.62
+193,Castile,1353,Coronation,3075390,5.77
+194,Holy Roman Empire,1049,Plague outbreak,1672714,11.5
+195,Holy Roman Empire,1097,Coronation,927216,8.09
+196,Denmark,916,Treaty,4678859,12.87
+197,Norway,1455,Battle,3332300,1.75
+198,France,1282,Harvest,2882948,11.03
+199,Aragon,1435,Royal marriage,1068310,7.02
+200,France,1068,Harvest,4493135,7.84
+201,Castile,1321,Harvest,412887,4.33
+202,Sweden,1267,Coronation,3134093,4.11
+203,Castile,1327,Royal marriage,2114633,2.93
+204,England,1037,Harvest,3331695,5.66
+205,Sweden,1336,Plague outbreak,4957482,3.66
+206,Castile,953,Coronation,875198,2.93
+207,England,1288,Treaty,12026,14.43
+208,Norway,1397,Treaty,4931136,6.77
+209,Castile,935,Treaty,3412290,10.2
+210,Sweden,1432,Coronation,4520955,5.67
+211,Aragon,1162,Harvest,575605,8.59
+212,France,1453,Royal marriage,985405,7.54
+213,Denmark,1117,Harvest,2963853,9.23
+214,Aragon,1138,Treaty,1625255,10.87
+215,Castile,1297,Royal marriage,1886036,9.99
+216,Denmark,1045,Treaty,3718083,11.46
+217,Denmark,1011,Treaty,3995069,2.28
+218,Aragon,1477,Plague outbreak,2166112,1.5
+219,Holy Roman Empire,1459,Plague outbreak,2769152,5.15
+220,Sweden,1242,Harvest,3263508,7.28
+221,Castile,1454,Plague outbreak,2122115,3.44
+222,France,1050,Royal marriage,1804842,11.62
+223,England,1047,Battle,3011068,10.82
+224,Denmark,1185,Royal marriage,4564827,13.71
+225,France,1224,Treaty,2335253,10.96
+226,Scotland,1368,Coronation,1516470,1.7
+227,Aragon,1265,Treaty,1999099,10.01
+228,Denmark,1363,Coronation,3028398,6.24
+229,Castile,952,Plague outbreak,3139368,3.97
+230,France,1220,Treaty,573147,9.07
+231,Sweden,1429,Battle,4958113,4.6
+232,Sweden,1323,Harvest,2664526,8.01
+233,Norway,1174,Harvest,209770,8.68
+234,England,1289,Royal marriage,4384937,7.98
+235,England,1214,Coronation,1755172,0.26
+236,Holy Roman Empire,1412,Harvest,3919757,5.3
+237,Denmark,1447,Plague outbreak,1362196,11.88
+238,France,1181,Plague outbreak,4218847,5.27
+239,Bohemia,1240,Treaty,4916915,7.69
+240,Bohemia,1349,Plague outbreak,3677258,5.26
+241,Scotland,1456,Plague outbreak,349133,3.07
+242,France,1160,Harvest,98007,3.08
+243,Sweden,1121,Coronation,3484779,11.26
+244,Castile,1345,Battle,4409757,9.46
+245,Bohemia,1172,Treaty,1137820,13.99
+246,Castile,1094,Royal marriage,3853776,6.37
+247,Holy Roman Empire,1490,Harvest,4520366,9.58
+248,Aragon,1262,Treaty,2506253,7.08
+249,Scotland,924,Harvest,170735,7.16
+250,Aragon,1305,Plague outbreak,413324,12.83
+251,Denmark,1420,Royal marriage,3859328,6.87
+252,Norway,1189,Royal marriage,3404026,13.93
+253,England,969,Coronation,1884422,9.35
+254,Bohemia,1156,Battle,4649220,1.37
+255,Denmark,1271,Treaty,3443959,1.11
+256,Sweden,1162,Coronation,150161,14.74
+257,Bohemia,1298,Royal marriage,4019617,6.05
+258,Denmark,1065,Harvest,1483065,8.85
+259,Scotland,1248,Treaty,82614,6.53
+260,Aragon,1364,Plague outbreak,4867168,2.47
+261,Sweden,1209,Battle,2624156,1.97
+262,Castile,929,Plague outbreak,3359568,3.27
+263,Denmark,1022,Coronation,4104900,9.12
+264,Castile,1031,Royal marriage,92715,8.24
+265,Sweden,974,Plague outbreak,3878789,5.0
+266,Norway,1197,Harvest,3975080,0.76
+267,Aragon,1323,Harvest,4026354,4.93
+268,Norway,996,Treaty,3893650,6.03
+269,Holy Roman Empire,1316,Battle,3623470,11.37
+270,Denmark,1056,Battle,40207,11.09
+271,Denmark,1170,Harvest,1951790,3.4
+272,Scotland,1379,Plague outbreak,1555029,3.49
+273,Sweden,1257,Plague outbreak,499979,9.46
+274,Norway,1127,Coronation,2027136,9.81
+275,Holy Roman Empire,1237,Treaty,1438358,8.46
+276,Holy Roman Empire,1217,Royal marriage,3849525,1.77
+277,England,1190,Royal marriage,1153250,4.36
+278,Norway,1239,Treaty,3504210,0.57
+279,France,1398,Royal marriage,1376712,11.45
+280,Bohemia,1352,Harvest,1212583,12.12
+281,Sweden,1487,Battle,3798604,13.82
+282,Scotland,1031,Coronation,1949435,1.41
+283,Sweden,1013,Battle,4420794,13.6
+284,Scotland,934,Royal marriage,2309489,13.78
+285,Denmark,1111,Royal marriage,1908440,14.97
+286,Holy Roman Empire,1389,Royal marriage,2767417,11.69
+287,Sweden,1362,Battle,2074332,4.01
+288,Sweden,1365,Royal marriage,2709393,4.04
+289,Aragon,1006,Plague outbreak,2620141,10.35
+290,Castile,1365,Plague outbreak,1053385,10.23
+291,Castile,1124,Harvest,4858637,9.94
+292,Scotland,1077,Treaty,1575772,5.36
+293,Scotland,1423,Harvest,1540172,7.84
+294,Denmark,1222,Coronation,908906,4.59
+295,France,1096,Battle,2628923,8.99
+296,Holy Roman Empire,1197,Plague outbreak,4248743,11.61
+297,England,1087,Treaty,3563228,10.51
+298,Holy Roman Empire,1216,Coronation,4986089,6.54
+299,Scotland,1237,Plague outbreak,2500042,7.92
+300,Holy Roman Empire,1105,Royal marriage,4909984,11.61
+301,England,1415,Battle,4257508,3.57
+302,Castile,1406,Treaty,2303427,3.4
+303,Norway,1207,Harvest,1546955,7.33
+304,Castile,1238,Coronation,4170627,7.46
+305,Bohemia,1008,Battle,225630,0.45
+306,France,1166,Harvest,316053,8.77
+307,England,1425,Coronation,2131439,6.32
+308,Denmark,903,Harvest,1455935,8.69
+309,Aragon,1040,Harvest,1256096,13.73
+310,Denmark,908,Royal marriage,121488,5.06
+311,Aragon,1315,Harvest,4865290,1.71
+312,France,1199,Plague outbreak,4261758,3.18
+313,Castile,1169,Coronation,2993907,4.67
+314,Bohemia,1227,Treaty,74540,12.97
+315,Denmark,1201,Treaty,784475,8.28
+316,Holy Roman Empire,1440,Battle,4490422,14.93
+317,Norway,1238,Plague outbreak,1224537,4.35
+318,Norway,1217,Harvest,3059871,1.12
+319,Holy Roman Empire,1310,Coronation,4668964,4.59
+320,Bohemia,1206,Plague outbreak,3983292,14.89
+321,Castile,1427,Harvest,339100,11.17
+322,Holy Roman Empire,1009,Harvest,2411519,13.73
+323,France,1430,Treaty,642425,8.96
+324,France,1451,Coronation,1743290,4.2
+325,Scotland,1439,Royal marriage,1090399,14.32
+326,Denmark,1359,Battle,622148,3.51
+327,France,944,Treaty,1452811,6.02
+328,Sweden,1141,Harvest,3130837,4.47
+329,Bohemia,900,Battle,649772,9.69
+330,Bohemia,1434,Harvest,1388695,6.33
+331,Denmark,1083,Treaty,4983075,14.36
+332,Holy Roman Empire,1181,Harvest,351382,14.51
+333,Holy Roman Empire,1423,Battle,2438041,1.54
+334,Denmark,1279,Harvest,2835574,13.93
+335,Norway,1085,Treaty,2823814,11.99
+336,Scotland,1467,Harvest,4029359,10.71
+337,Denmark,1004,Battle,96491,5.51
+338,Bohemia,1156,Plague outbreak,1200047,10.23
+339,Scotland,1448,Plague outbreak,4521791,12.18
+340,Holy Roman Empire,1105,Royal marriage,270339,12.47
+341,Bohemia,1164,Royal marriage,4803234,12.11
+342,Norway,1219,Treaty,3471631,4.87
+343,Scotland,1294,Coronation,1047133,2.86
+344,Norway,909,Harvest,1312210,8.2
+345,Norway,984,Coronation,1072855,3.89
+346,England,1160,Harvest,1394913,11.8
+347,England,1343,Harvest,4779948,0.77
+348,Aragon,939,Treaty,3186887,6.44
+349,Aragon,1366,Treaty,4104190,11.7
+350,Bohemia,1115,Coronation,1846730,1.3
+351,Scotland,1208,Harvest,4073558,10.34
+352,Holy Roman Empire,1255,Battle,2098493,3.54
+353,Sweden,1023,Treaty,3264435,2.0
+354,Denmark,1460,Royal marriage,960664,4.69
+355,France,1186,Battle,1259010,0.39
+356,Sweden,903,Coronation,1954061,9.49
+357,Bohemia,910,Plague outbreak,2109091,5.06
+358,Holy Roman Empire,1188,Harvest,4401754,14.91
+359,England,1049,Royal marriage,3399706,1.56
+360,Bohemia,1010,Royal marriage,4040389,13.43
+361,Denmark,1253,Royal marriage,2474238,7.52
+362,Sweden,1125,Royal marriage,4623600,1.85
+363,Castile,1079,Coronation,3033528,12.86
+364,Castile,1104,Harvest,1746585,1.75
+365,Denmark,1091,Royal marriage,2923152,9.72
+366,France,1464,Coronation,3828275,3.75
+367,France,1350,Royal marriage,1950124,6.79
+368,Scotland,1390,Battle,1339221,8.64
+369,France,1378,Coronation,1471985,13.8
+370,France,1248,Treaty,2177670,4.34
+371,Castile,1069,Plague outbreak,416763,5.88
+372,Denmark,913,Harvest,1104383,3.07
+373,Scotland,1144,Plague outbreak,354533,5.22
+374,Holy Roman Empire,1244,Plague outbreak,2906397,1.97
+375,France,1314,Coronation,2882831,8.27
+376,Castile,1059,Treaty,1936091,8.43
+377,Holy Roman Empire,932,Harvest,2636490,9.39
+378,France,1077,Battle,3499278,3.53
+379,Bohemia,1451,Treaty,3287485,6.54
+380,Bohemia,1284,Royal marriage,3407867,0.72
+381,Bohemia,1436,Royal marriage,472343,0.7
+382,England,1240,Plague outbreak,1692816,4.71
+383,Bohemia,1455,Battle,939915,7.39
+384,Bohemia,1261,Plague outbreak,3570490,10.43
+385,England,1119,Coronation,3256822,11.4
+386,Scotland,990,Royal marriage,4484188,6.09
+387,Aragon,1357,Harvest,4675808,11.36
+388,Castile,1246,Treaty,131668,10.94
+389,Norway,1325,Battle,4302483,9.52
+390,Bohemia,1059,Treaty,723829,2.21
+391,Holy Roman Empire,1452,Treaty,2102430,4.38
+392,England,1123,Plague outbreak,1728288,8.05
+393,Aragon,1164,Royal marriage,3890062,12.23
+394,Norway,1333,Battle,4739879,6.11
+395,Castile,1237,Treaty,4365355,14.51
+396,Bohemia,1285,Battle,1133607,10.01
+397,Sweden,1086,Battle,3934812,4.76
+398,Scotland,1185,Royal marriage,2267704,8.47
+399,France,1145,Treaty,3260610,5.69
+400,Castile,1108,Battle,1724489,13.69
+401,England,984,Battle,1877427,0.82
+402,Aragon,1192,Treaty,864720,3.51
+403,France,1135,Treaty,1372449,1.54
+404,Castile,1008,Treaty,101191,12.1
+405,Aragon,1171,Plague outbreak,4334636,2.95
+406,Norway,913,Treaty,2900928,11.17
+407,Norway,1129,Royal marriage,955993,8.47
+408,Bohemia,1202,Battle,4139922,12.47
+409,Bohemia,1030,Plague outbreak,468531,14.92
+410,Scotland,1061,Treaty,1796634,2.4
+411,England,1376,Harvest,1067321,2.34
+412,Castile,1157,Plague outbreak,2490236,9.58
+413,Scotland,1310,Plague outbreak,1630944,0.64
+414,Norway,1356,Coronation,2055138,12.28
+415,England,1239,Plague outbreak,970484,5.71
+416,Scotland,1311,Plague outbreak,500132,6.04
+417,Scotland,1050,Battle,3044602,8.62
+418,Norway,1116,Coronation,3595038,5.2
+419,Holy Roman Empire,1264,Battle,4896522,4.57
+420,England,1145,Coronation,3451120,3.15
+421,Sweden,1442,Plague outbreak,49861,10.81
+422,Bohemia,1147,Harvest,2921371,11.55
+423,Sweden,1468,Treaty,826495,9.16
+424,England,1120,Coronation,1178648,3.62
+425,Castile,968,Coronation,1383681,10.45
+426,France,969,Plague outbreak,418044,2.45
+427,England,1072,Plague outbreak,2138936,13.19
+428,Norway,1241,Treaty,2592576,6.75
+429,England,1036,Battle,4173746,7.19
+430,Denmark,1392,Coronation,2245235,3.14
+431,Holy Roman Empire,1022,Plague outbreak,1841533,9.27
+432,France,1268,Plague outbreak,3789368,14.78
+433,Castile,1278,Plague outbreak,3004698,8.88
+434,Aragon,1314,Plague outbreak,2470719,9.82
+435,Scotland,1188,Treaty,3552907,4.4
+436,France,1241,Battle,2338632,4.96
+437,Denmark,1085,Harvest,495030,3.03
+438,Bohemia,1237,Treaty,248516,7.77
+439,France,1026,Harvest,2880078,2.3
+440,Castile,1045,Harvest,1567500,9.32
+441,Norway,1231,Treaty,1040387,7.03
+442,Holy Roman Empire,1302,Battle,4582457,9.4
+443,Denmark,1497,Battle,2754340,1.15
+444,England,1393,Coronation,318383,13.27
+445,Aragon,1199,Battle,3060231,5.74
+446,Aragon,1347,Treaty,829382,3.18
+447,England,1254,Treaty,1421202,7.56
+448,Castile,1271,Royal marriage,4182599,13.95
+449,Castile,997,Treaty,3303209,10.44
+450,Denmark,1055,Royal marriage,3240557,5.17
+451,Sweden,1463,Harvest,87334,4.63
+452,Denmark,1471,Treaty,1054356,9.95
+453,Sweden,1125,Royal marriage,1891522,1.42
+454,France,1295,Battle,3817607,5.54
+455,Denmark,1137,Coronation,4679307,7.23
+456,Norway,1484,Harvest,2150659,11.43
+457,Holy Roman Empire,1394,Treaty,2292605,4.95
+458,Scotland,1317,Coronation,2987319,11.9
+459,England,1042,Plague outbreak,1987922,11.76
+460,Holy Roman Empire,1266,Harvest,2945772,0.39
+461,Scotland,1115,Coronation,4078664,2.94
+462,Bohemia,1433,Harvest,2641323,9.84
+463,Bohemia,1286,Royal marriage,813447,7.49
+464,Bohemia,1128,Treaty,29608,0.51
+465,Castile,1394,Royal marriage,3272542,5.46
+466,England,909,Harvest,1451773,9.42
+467,Scotland,1285,Battle,2481660,14.88
+468,Holy Roman Empire,1157,Treaty,4755124,3.18
+469,Castile,1012,Treaty,621720,2.38
+470,Castile,1186,Coronation,3288637,5.53
+471,Bohemia,1446,Coronation,4336901,8.31
+472,England,910,Treaty,2301929,10.0
+473,Denmark,1149,Coronation,1427073,5.48
+474,Denmark,1417,Battle,490689,3.5
+475,France,1198,Harvest,3960504,0.18
+476,Denmark,1098,Plague outbreak,2519065,2.83
+477,Scotland,1005,Harvest,2581181,1.59
+478,Denmark,1417,Battle,1255160,3.71
+479,Holy Roman Empire,1216,Royal marriage,3485836,4.91
+480,England,1471,Royal marriage,182799,1.27
+481,France,908,Coronation,4581298,6.15
+482,Norway,1091,Plague outbreak,2604114,2.6
+483,England,1109,Royal marriage,2847679,8.76
+484,Aragon,1275,Battle,167501,5.73
+485,Norway,1498,Plague outbreak,644308,9.63
+486,Holy Roman Empire,1031,Battle,4024564,11.66
+487,Sweden,1266,Treaty,2984114,1.36
+488,Norway,1400,Royal marriage,4153093,5.8
+489,England,906,Coronation,4552498,14.67
+490,Denmark,922,Treaty,4151330,0.13
+491,Aragon,910,Harvest,494716,6.94
+492,England,1247,Treaty,3508997,7.09
+493,Scotland,1396,Royal marriage,1828907,12.37
+494,Sweden,983,Harvest,4668323,4.42
+495,France,1414,Royal marriage,745349,11.66
+496,Holy Roman Empire,1271,Royal marriage,4576096,0.13
+497,England,1227,Royal marriage,3989049,7.41
+498,Norway,1360,Battle,3280054,4.86
+499,Bohemia,1079,Coronation,79596,12.14
+500,Scotland,1175,Royal marriage,2944411,6.1
+501,Denmark,1143,Harvest,3253386,1.14
+502,Denmark,1026,Harvest,561151,10.65
+503,Castile,1183,Plague outbreak,2056970,0.3
+504,Holy Roman Empire,947,Royal marriage,1658064,5.08
+505,Aragon,1435,Battle,793653,7.53
+506,France,1036,Royal marriage,3837466,11.15
+507,Norway,1194,Coronation,3554279,4.76
+508,Denmark,1158,Harvest,3883937,1.65
+509,Holy Roman Empire,951,Treaty,1732128,12.4
+510,Bohemia,968,Royal marriage,1050504,0.25
+511,Scotland,1471,Battle,2631461,13.11
+512,France,1337,Harvest,373218,1.69
+513,Denmark,962,Royal marriage,3575067,1.97
+514,Bohemia,1266,Coronation,237558,2.58
+515,Denmark,1317,Plague outbreak,3902206,2.31
+516,England,988,Treaty,762119,11.94
+517,Castile,1120,Harvest,2729525,12.18
+518,Bohemia,1153,Plague outbreak,141681,2.63
+519,Sweden,1072,Harvest,2319141,1.78
+520,Bohemia,1142,Coronation,3780445,8.63
+521,England,1272,Treaty,4230510,10.53
+522,Denmark,1261,Plague outbreak,840107,8.43
+523,Norway,981,Plague outbreak,847346,0.51
+524,Holy Roman Empire,1064,Treaty,3468653,11.51
+525,Bohemia,1296,Coronation,2124850,10.74
+526,Norway,1450,Treaty,1074827,10.79
+527,France,1087,Coronation,1595473,3.19
+528,Castile,1377,Treaty,275459,1.15
+529,Aragon,1442,Harvest,4166489,14.96
+530,Aragon,1254,Coronation,874342,7.22
+531,France,1367,Harvest,3753064,10.92
+532,France,1443,Battle,487373,1.54
+533,Scotland,1133,Plague outbreak,2370929,7.62
+534,Bohemia,907,Plague outbreak,4429416,7.61
+535,Denmark,969,Coronation,1282987,1.93
+536,Norway,1233,Royal marriage,420995,5.34
+537,France,1382,Plague outbreak,2741006,13.38
+538,Bohemia,1330,Battle,4909943,10.38
+539,England,1444,Battle,4861802,11.0
+540,England,932,Treaty,1846133,13.19
+541,England,1440,Plague outbreak,1062219,4.72
+542,Holy Roman Empire,912,Battle,2623404,11.87
+543,Norway,993,Treaty,2148532,1.54
+544,France,974,Coronation,4192995,8.71
+545,England,955,Battle,94421,8.06
+546,Norway,1205,Plague outbreak,130455,6.52
+547,France,1407,Plague outbreak,583199,3.22
+548,Denmark,919,Treaty,1607986,6.47
+549,England,1114,Plague outbreak,1314245,12.68
+550,Norway,1307,Treaty,4639239,10.99
+551,Norway,1442,Plague outbreak,1492923,6.66
+552,England,1336,Royal marriage,598243,14.52
+553,Norway,1398,Treaty,2118473,11.8
+554,Bohemia,1086,Royal marriage,4149440,0.76
+555,Castile,1152,Coronation,1440165,11.29
+556,Castile,915,Plague outbreak,1848961,10.81
+557,England,978,Coronation,2084355,0.83
+558,Sweden,1095,Harvest,4074380,13.91
+559,Aragon,970,Plague outbreak,2456480,7.06
+560,Holy Roman Empire,1107,Coronation,3854511,3.66
+561,France,1079,Coronation,975610,6.78
+562,Denmark,1086,Harvest,4501974,12.52
+563,Bohemia,1438,Plague outbreak,4850176,3.83
+564,Holy Roman Empire,1480,Treaty,2278040,13.72
+565,Castile,1248,Battle,4123208,1.06
+566,Aragon,1217,Treaty,4938244,1.43
+567,Bohemia,1405,Coronation,1357583,9.03
+568,Bohemia,991,Harvest,2715115,7.7
+569,Sweden,1324,Plague outbreak,1306099,10.11
+570,Holy Roman Empire,1060,Plague outbreak,4005393,0.75
+571,England,1013,Plague outbreak,2029961,3.98
+572,France,1298,Battle,2629874,10.58
+573,Denmark,1245,Battle,4866470,5.23
+574,Norway,1380,Treaty,4232111,4.64
+575,Sweden,1168,Coronation,3479177,12.31
+576,Bohemia,1215,Treaty,4482921,11.96
+577,Sweden,1326,Harvest,271253,11.2
+578,France,1297,Battle,3178991,9.45
+579,Castile,1336,Royal marriage,4940408,14.32
+580,Holy Roman Empire,1078,Treaty,3854597,0.41
+581,Sweden,1020,Coronation,2391790,2.37
+582,Holy Roman Empire,1371,Royal marriage,3644516,6.95
+583,Norway,1376,Treaty,3292585,4.28
+584,Sweden,1082,Coronation,254780,4.47
+585,Denmark,1277,Royal marriage,512661,14.71
+586,Castile,1499,Royal marriage,3360121,0.76
+587,Scotland,962,Treaty,310370,0.49
+588,England,1166,Battle,2802112,14.03
+589,Aragon,996,Treaty,4299328,2.49
+590,Scotland,954,Battle,4224299,0.74
+591,Bohemia,1417,Plague outbreak,3650348,6.93
+592,Denmark,947,Coronation,1357704,13.24
+593,Scotland,1394,Coronation,162022,4.66
+594,France,1311,Plague outbreak,3727618,13.99
+595,Denmark,1245,Plague outbreak,796021,12.99
+596,Scotland,1317,Coronation,865265,4.28
+597,England,1235,Plague outbreak,624254,6.59
+598,Norway,1318,Harvest,151076,13.86
+599,Norway,1343,Harvest,555771,1.94
+600,Castile,969,Treaty,2878635,1.02
+601,Sweden,972,Royal marriage,2831104,2.91
+602,Scotland,1130,Harvest,3377395,3.46
+603,Holy Roman Empire,1387,Harvest,3061739,2.77
+604,Bohemia,900,Royal marriage,1498310,0.57
+605,Scotland,1435,Harvest,3004405,10.79
+606,England,1408,Royal marriage,3342001,2.51
+607,Aragon,1058,Harvest,2492672,6.89
+608,Bohemia,1493,Plague outbreak,3331331,1.89
+609,Denmark,974,Coronation,2302067,5.55
+610,Holy Roman Empire,1174,Royal marriage,3526465,6.02
+611,Denmark,1388,Plague outbreak,3305588,13.7
+612,France,1183,Treaty,3230542,10.61
+613,Aragon,1207,Royal marriage,1089819,13.6
+614,Sweden,1326,Royal marriage,4784221,7.39
+615,Castile,1386,Battle,3863325,2.62
+616,Sweden,1237,Harvest,2518526,6.2
+617,England,1152,Royal marriage,4563621,8.95
+618,Scotland,1275,Battle,3954671,8.16
+619,Holy Roman Empire,1069,Coronation,3304590,13.45
+620,Norway,1136,Battle,2665533,8.93
+621,Bohemia,1396,Battle,3903589,3.92
+622,Scotland,1017,Coronation,4879845,14.29
+623,England,1116,Plague outbreak,682928,2.69
+624,Denmark,1115,Battle,1268183,7.2
+625,England,1235,Royal marriage,816119,13.33
+626,France,921,Treaty,3476926,10.68
+627,Castile,960,Harvest,3770202,8.08
+628,Aragon,929,Coronation,327361,10.35
+629,Denmark,1434,Plague outbreak,3898727,6.62
+630,England,924,Coronation,434287,6.01
+631,Sweden,967,Battle,4318518,9.45
+632,Aragon,1450,Battle,129605,11.08
+633,Castile,1235,Plague outbreak,2029020,14.07
+634,Castile,1392,Coronation,3241371,12.56
+635,Castile,1042,Plague outbreak,4510759,14.41
+636,Holy Roman Empire,1481,Coronation,567581,1.83
+637,France,981,Royal marriage,2001077,14.84
+638,Castile,1261,Royal marriage,2359137,3.08
+639,Norway,1479,Treaty,3562558,1.31
+640,France,1140,Royal marriage,1866197,9.89
+641,Bohemia,1111,Royal marriage,1869657,10.13
+642,Norway,982,Coronation,2655847,14.61
+643,Norway,1263,Plague outbreak,2538349,11.59
+644,Aragon,1285,Plague outbreak,612109,5.95
+645,Denmark,1420,Harvest,2047026,9.04
+646,Castile,1443,Plague outbreak,3201707,9.18
+647,Denmark,1170,Plague outbreak,1317490,11.5
+648,Bohemia,1106,Royal marriage,2957278,8.76
+649,Scotland,1304,Coronation,3882410,5.86
+650,Norway,1046,Royal marriage,3742099,10.25
+651,Bohemia,1063,Plague outbreak,683315,3.68
+652,England,1259,Plague outbreak,1905095,5.31
+653,Sweden,1093,Harvest,3865585,1.17
+654,Denmark,1149,Battle,1981573,12.26
+655,Aragon,1308,Plague outbreak,2826471,1.16
+656,Norway,1194,Treaty,4032960,4.55
+657,Aragon,941,Harvest,234355,13.89
+658,Scotland,1084,Battle,3432659,8.44
+659,Scotland,1487,Coronation,248001,3.35
+660,Denmark,1396,Royal marriage,4874439,14.89
+661,Sweden,1471,Plague outbreak,1074550,13.22
+662,Castile,1231,Treaty,4374922,1.12
+663,Norway,1459,Royal marriage,3602903,3.53
+664,Bohemia,1333,Plague outbreak,2664860,9.67
+665,France,1270,Battle,3265332,3.06
+666,France,1139,Plague outbreak,59113,8.1
+667,Norway,1265,Coronation,3970795,2.57
+668,France,1185,Plague outbreak,1129512,10.12
+669,Bohemia,1021,Treaty,3214434,8.02
+670,Aragon,1454,Harvest,222793,14.54
+671,Norway,1438,Royal marriage,800815,2.09
+672,Bohemia,1103,Coronation,1279857,8.01
+673,Castile,1005,Royal marriage,2551235,4.74
+674,France,1355,Plague outbreak,4796913,9.23
+675,Denmark,1272,Treaty,4491690,3.13
+676,Aragon,1119,Harvest,4043887,13.89
+677,Bohemia,1163,Plague outbreak,2520860,6.63
+678,Bohemia,1339,Royal marriage,3787918,6.53
+679,Scotland,1112,Plague outbreak,4246067,11.82
+680,England,1301,Battle,684584,13.62
+681,Sweden,974,Coronation,1123672,7.46
+682,Denmark,1468,Harvest,1835161,11.59
+683,Denmark,1312,Plague outbreak,2022340,2.24
+684,Sweden,1155,Treaty,1320311,3.86
+685,Holy Roman Empire,961,Coronation,642139,10.43
+686,France,1097,Royal marriage,3040988,13.91
+687,France,1372,Coronation,3410593,1.85
+688,Scotland,1210,Battle,4562547,2.1
+689,Bohemia,1339,Treaty,281200,14.63
+690,Holy Roman Empire,1349,Royal marriage,4565648,1.46
+691,France,1168,Battle,1110526,0.74
+692,Bohemia,1309,Royal marriage,1575963,8.02
+693,France,1476,Harvest,3304907,3.44
+694,Aragon,1225,Plague outbreak,4875624,4.53
+695,England,976,Royal marriage,84494,9.31
+696,Castile,1312,Battle,92780,5.33
+697,Bohemia,1400,Harvest,1686113,14.94
+698,Denmark,1184,Plague outbreak,3117460,3.5
+699,Scotland,911,Harvest,4352457,12.99
+700,Scotland,1477,Treaty,3663206,13.14
+701,Aragon,1004,Coronation,1187782,6.62
+702,Sweden,1284,Treaty,2661137,14.96
+703,Scotland,1008,Plague outbreak,513937,4.31
+704,France,1311,Treaty,2275224,1.46
+705,Holy Roman Empire,1084,Plague outbreak,1653799,8.55
+706,Holy Roman Empire,979,Coronation,4674175,0.21
+707,France,1172,Treaty,4683360,7.17
+708,France,1246,Coronation,4646374,12.57
+709,France,1489,Coronation,4781787,6.35
+710,Bohemia,1437,Treaty,2450639,3.14
+711,Aragon,1216,Treaty,4290556,3.91
+712,Norway,1303,Plague outbreak,1977196,13.72
+713,Bohemia,1386,Royal marriage,69299,9.97
+714,Holy Roman Empire,1477,Royal marriage,3826426,2.5
+715,Scotland,1007,Treaty,578780,7.0
+716,Sweden,1346,Royal marriage,4641480,9.26
+717,France,1068,Harvest,102418,7.63
+718,France,1224,Treaty,4688856,11.8
+719,Sweden,1043,Harvest,4411299,0.19
+720,England,921,Royal marriage,4088708,4.29
+721,France,1175,Plague outbreak,3668654,8.66
+722,Denmark,924,Coronation,3097187,8.13
+723,Norway,1053,Coronation,4253603,1.65
+724,Denmark,1081,Battle,1043059,2.71
+725,Sweden,1419,Plague outbreak,490711,11.32
+726,Sweden,1304,Plague outbreak,2629420,8.07
+727,Holy Roman Empire,1115,Coronation,1895874,9.64
+728,Scotland,1346,Coronation,4059775,12.27
+729,Aragon,1043,Royal marriage,2736834,8.8
+730,Holy Roman Empire,1263,Plague outbreak,1602649,4.78
+731,France,1122,Coronation,3916154,7.9
+732,Bohemia,996,Coronation,2596038,2.04
+733,Denmark,1390,Royal marriage,4844373,4.15
+734,Castile,1497,Battle,980650,9.86
+735,Aragon,923,Royal marriage,4719303,0.71
+736,Scotland,964,Harvest,1363551,0.11
+737,Denmark,1170,Royal marriage,2780813,13.32
+738,Castile,1375,Harvest,1923101,14.47
+739,Sweden,1400,Plague outbreak,4887566,13.59
+740,Norway,1105,Plague outbreak,3571169,3.31
+741,Aragon,1193,Harvest,2574139,11.34
+742,France,1464,Plague outbreak,1984178,6.9
+743,Bohemia,1254,Treaty,1378899,1.16
+744,Aragon,1286,Battle,3090520,11.95
+745,Sweden,1014,Coronation,3687249,12.14
+746,Castile,1253,Royal marriage,4350583,10.86
+747,Holy Roman Empire,1403,Battle,2603463,14.95
+748,Sweden,1106,Plague outbreak,2410584,14.88
+749,Aragon,1200,Battle,319491,2.77
+750,Aragon,927,Treaty,4097116,11.95
+751,Norway,1307,Treaty,4412557,9.93
+752,England,999,Royal marriage,742204,10.92
+753,Sweden,1477,Plague outbreak,2568166,14.86
+754,Sweden,971,Plague outbreak,1054460,12.57
+755,Norway,957,Treaty,451799,5.93
+756,Scotland,1403,Harvest,560740,14.07
+757,England,1085,Battle,2648377,13.14
+758,England,1131,Treaty,3688595,10.62
+759,Bohemia,1166,Battle,706696,14.06
+760,Norway,908,Royal marriage,399895,6.99
+761,Sweden,1325,Treaty,1369161,10.73
+762,Norway,941,Coronation,786850,0.16
+763,Holy Roman Empire,1153,Royal marriage,4348108,8.57
+764,Aragon,1251,Harvest,4840808,10.88
+765,Denmark,1001,Harvest,123889,5.81
+766,England,1489,Plague outbreak,152188,13.03
+767,Sweden,1177,Royal marriage,3802341,7.33
+768,Norway,902,Treaty,769388,4.31
+769,Scotland,1139,Battle,701583,8.29
+770,Aragon,1316,Battle,894972,13.59
+771,Castile,1480,Royal marriage,4857323,10.27
+772,Bohemia,1024,Treaty,2765393,14.26
+773,Scotland,1093,Plague outbreak,3485464,6.77
+774,Norway,1209,Harvest,4272745,9.91
+775,Castile,1274,Harvest,4426797,9.46
+776,Sweden,1259,Plague outbreak,4359583,3.66
+777,Denmark,952,Coronation,1990675,11.19
+778,Castile,1474,Treaty,166083,1.11
+779,Bohemia,1134,Battle,4754031,8.67
+780,France,1275,Battle,2346630,2.75
+781,Scotland,1104,Coronation,2280229,2.91
+782,Holy Roman Empire,1329,Coronation,4003941,14.7
+783,Denmark,1488,Battle,546947,5.83
+784,Norway,1172,Treaty,4517333,7.84
+785,France,1223,Treaty,3924169,10.01
+786,Bohemia,1114,Royal marriage,1675587,7.52
+787,Bohemia,1033,Royal marriage,510582,10.92
+788,Bohemia,1004,Plague outbreak,2401346,0.49
+789,Scotland,1088,Plague outbreak,3975160,10.18
+790,Sweden,1245,Battle,3897307,4.93
+791,Denmark,926,Treaty,4153871,13.2
+792,Aragon,1122,Royal marriage,3545261,2.24
+793,Castile,1181,Battle,972917,0.56
+794,Norway,1481,Coronation,842936,1.01
+795,Sweden,1183,Royal marriage,1337532,7.88
+796,Bohemia,1092,Treaty,2671801,3.31
+797,Bohemia,1357,Treaty,748392,11.32
+798,Aragon,1106,Plague outbreak,3035831,0.93
+799,Sweden,1345,Coronation,922865,3.6
+800,Sweden,1307,Treaty,4461846,12.47
+801,Aragon,1336,Treaty,114232,0.78
+802,Denmark,1097,Coronation,4780309,11.84
+803,Holy Roman Empire,934,Coronation,3791591,1.77
+804,Sweden,1379,Coronation,1074592,12.66
+805,Bohemia,1256,Battle,4337883,11.78
+806,Castile,1092,Treaty,4135391,3.36
+807,England,1241,Harvest,3341731,6.09
+808,Sweden,1148,Battle,2752394,6.92
+809,Scotland,1036,Coronation,2415566,5.97
+810,Sweden,1432,Coronation,368991,3.24
+811,England,1305,Plague outbreak,4901207,3.47
+812,Castile,1243,Battle,2943711,10.39
+813,France,1029,Battle,2570394,2.36
+814,England,1487,Treaty,1482853,4.3
+815,Norway,1315,Battle,1384570,1.04
+816,Holy Roman Empire,1388,Royal marriage,3727681,3.35
+817,Aragon,1221,Harvest,3454657,0.66
+818,Castile,948,Coronation,1108404,10.51
+819,Scotland,1399,Royal marriage,3007568,6.13
+820,Bohemia,1032,Plague outbreak,1144979,5.73
+821,Castile,1386,Coronation,3035456,7.34
+822,Aragon,1023,Harvest,1915496,3.99
+823,Castile,1008,Treaty,1487788,5.47
+824,Castile,1106,Harvest,4678194,8.91
+825,Sweden,1337,Treaty,3034184,3.45
+826,Denmark,1383,Battle,693242,6.98
+827,Aragon,1404,Treaty,3345903,8.67
+828,Norway,1326,Plague outbreak,2351225,2.16
+829,Norway,1455,Royal marriage,377474,4.67
+830,France,1228,Harvest,1173148,8.33
+831,France,1451,Royal marriage,500795,6.08
+832,Scotland,934,Coronation,1840182,10.77
+833,England,1191,Coronation,1581290,3.55
+834,Bohemia,1400,Royal marriage,3814932,7.11
+835,Aragon,1336,Coronation,3464886,12.33
+836,Denmark,1123,Royal marriage,269739,2.23
+837,Castile,1320,Coronation,700421,13.43
+838,Holy Roman Empire,1461,Royal marriage,3939194,6.76
+839,Castile,1430,Battle,3773894,7.25
+840,England,1337,Plague outbreak,3560936,9.58
+841,Scotland,1297,Coronation,3010225,8.17
+842,England,1210,Plague outbreak,4805705,12.37
+843,Holy Roman Empire,1146,Treaty,1411048,2.88
+844,Holy Roman Empire,1091,Treaty,3302420,2.04
+845,Norway,947,Treaty,343877,4.03
+846,Norway,1142,Plague outbreak,1317532,14.97
+847,England,1045,Plague outbreak,4507566,1.57
+848,Norway,1317,Plague outbreak,2186481,8.0
+849,Sweden,940,Treaty,4832586,11.62
+850,France,1127,Battle,659555,12.51
+851,Denmark,1319,Coronation,2749079,14.37
+852,Denmark,1190,Coronation,4765886,14.93
+853,Holy Roman Empire,1383,Royal marriage,3422440,8.33
+854,Holy Roman Empire,1015,Coronation,3504281,3.69
+855,France,1444,Plague outbreak,4004673,7.85
+856,Castile,909,Plague outbreak,1359393,11.07
+857,Bohemia,1425,Harvest,1387122,7.2
+858,Scotland,1064,Plague outbreak,4480670,4.16
+859,Scotland,1198,Royal marriage,3580882,12.35
+860,Holy Roman Empire,1180,Coronation,1924249,12.45
+861,France,1207,Treaty,1698987,8.3
+862,Denmark,1396,Harvest,521947,9.06
+863,Holy Roman Empire,1404,Royal marriage,4398923,7.75
+864,Bohemia,1383,Coronation,3675455,11.75
+865,Scotland,1059,Battle,2709680,13.32
+866,France,1072,Royal marriage,2985080,0.13
+867,Aragon,1036,Plague outbreak,451833,14.61
+868,Castile,917,Treaty,3126074,5.23
+869,Castile,1313,Royal marriage,3097599,6.05
+870,France,1394,Harvest,542118,5.58
+871,Scotland,1418,Royal marriage,3834438,12.68
+872,Aragon,1107,Harvest,3117134,11.08
+873,Castile,1049,Harvest,3398817,2.77
+874,Bohemia,1494,Royal marriage,2198050,6.18
+875,Castile,1017,Harvest,420665,0.14
+876,Sweden,1015,Treaty,3949874,12.07
+877,Norway,1435,Plague outbreak,4543619,3.62
+878,Aragon,1214,Battle,3227244,1.34
+879,Castile,1039,Royal marriage,1861529,9.95
+880,Holy Roman Empire,954,Harvest,2589002,3.36
+881,Bohemia,1220,Plague outbreak,538055,8.28
+882,Bohemia,1128,Harvest,1916553,2.5
+883,Aragon,924,Plague outbreak,1132558,11.87
+884,Bohemia,941,Royal marriage,3198572,14.73
+885,Scotland,1190,Harvest,3390105,1.7
+886,Castile,1094,Coronation,1094714,12.64
+887,Aragon,1036,Battle,2399340,7.4
+888,Aragon,1095,Battle,1906005,0.87
+889,Bohemia,1320,Royal marriage,937556,7.87
+890,France,1478,Coronation,4420608,7.28
+891,Castile,1245,Coronation,3335120,13.38
+892,France,1445,Harvest,4444692,5.17
+893,Norway,1332,Royal marriage,587416,11.39
+894,Holy Roman Empire,1200,Plague outbreak,3698679,2.07
+895,Norway,1293,Coronation,3468105,5.89
+896,France,1075,Royal marriage,3691836,8.14
+897,Denmark,1231,Battle,4327915,2.8
+898,Bohemia,1260,Treaty,4687286,3.05
+899,France,926,Harvest,2154408,3.76
+900,France,1023,Coronation,3153755,11.17
